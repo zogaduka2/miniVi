@@ -1,0 +1,21 @@
+is the first line of the file
+interesting this is the second line
+int main() {
+this is the third line
+be yourself; everyone is already taken
+in this course we learned about the keyword typedef
+we also learned about the keyword class
+if is a keyword and so is while
+you must use " using namespace std " for c++
+
+
+
+
+
+
+
+
+
+
+
+
